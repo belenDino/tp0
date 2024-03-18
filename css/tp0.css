@@ -1,0 +1,138 @@
+.contenedor{
+    margin:auto;
+    width: 90%;
+    min-height: 100vh;
+    /* overflow:hidden; */
+    background-color: rgb(255, 255, 255);
+   padding:20px;
+}
+header{
+    justify-content:space-between;
+    display:flex;
+    
+    min-height:50px;
+    width:100%;
+    background-color: rgb(180, 180, 180);
+
+    /* & .logo{
+    
+        color:black;
+        font-size:50pt;
+    } */
+    & .botonera{
+        display:flex;
+        font-size:30pt;
+
+    } 
+}
+/* header .logo{
+    color:black;
+    font-size:50pt!important;
+} */
+
+.font40{
+    font-size:30pt!important;
+}
+.banner{
+    width:100%;
+    height: 500px;
+    background-color: lightgreen;
+    background-image: url('https://i.pinimg.com/736x/14/50/f8/1450f86d6168c5d5142485a030904de3.jpg');
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    /* background-size: contain; */
+    background-size: cover;
+    
+}
+.descripcion{
+    height:300px;
+    width:100%;
+    background-color:pink;
+    display: flex;
+  
+}
+.productos{
+    height:800px;
+    width:100%;
+    background-color:lightgrey;
+    display: flex;
+
+   
+  
+}
+.nosotros{
+    height:200px;
+    width:100%;
+    background-color:#D0B8F1;
+}
+footer{
+    text-align:center;
+    height:50px;
+    background-color:#F5F5F5;
+}
+.titulo{
+  
+    font-family:verdana;
+    color: white;
+    text-align:left;
+ 
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+.font50{
+    font-size: 35pt!important;
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24;
+  font-size: 30pt;
+  display: flex;
+}
+.fredericka-the great-regular {
+    font-family: "Fredericka the Great", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+.text{
+    justify-content:center;
+    text-align: left;
+    color:rgb(0, 0, 0);
+    font-family: Fredericka the Great;
+      
+}
+h1{
+  margin-top:10px;
+  margin-bottom: 10px;
+}
+  
+.obra{
+    width: 25%;
+    height: 670px;
+    background-color: aquamarine;
+    align-content: center;
+
+    align-self: center;
+
+}
+img{
+    margin-top: 5%;
+    width: 80%;
+    height: 350px;
+    margin-left: 10%;
+}
+
+.color1{
+    background-color: #1ff6e4;
+}
+.color2{
+    background-color: rgb(255, 171, 254);
+}
+.color3{
+    background-color: darksalmon;
+}
+.color4{
+    background-color:lightblue ;
+}
