@@ -143,3 +143,9 @@ img{
     font-weight: 700;
     
 }
+.texto{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
