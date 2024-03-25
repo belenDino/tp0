@@ -136,5 +136,7 @@ img{
     background-color:lightblue ;
 }
 .titulo_producto{
+    display: flex;
     text-align: center;
+    
 }
