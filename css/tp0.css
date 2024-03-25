@@ -139,5 +139,7 @@ img{
     display: flex;
     text-align: center;
     justify-content: center;
+    font-size: 5vh;
+    font-weight: 700;
     
 }
