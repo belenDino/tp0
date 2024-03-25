@@ -169,9 +169,7 @@ img{
 .position-relative{
     position: relative;
 }
-.pa{
-    position: absolute;
-}
+
 .imagen-fondo img{
     width: 100%;
     height: 100%;
