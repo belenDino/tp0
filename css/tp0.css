@@ -111,12 +111,7 @@ h1{
     align-items: center;
 
 }
-img{
-    margin-top: 5%;
-    width: 80%;
-    height: 350px;
-    margin-left: 10%;
-}
+
 
 .color1{
     background-color: #1ff6e4;
@@ -185,4 +180,10 @@ img{
 .img-f img{
     width: 100%;
     height: 100%;
+}
+.obra img{
+    margin-top: 5%;
+    width: 80%;
+    height: 350px;
+    margin-left: 10%;
 }
