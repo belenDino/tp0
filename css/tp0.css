@@ -174,3 +174,11 @@ img{
     width: 100%;
     height: 100%;
 }
+.img-f{
+      height: 100%;
+        width: 100%;
+        object-fit: cover;
+}
+.pa{
+    position: absolute;
+}
