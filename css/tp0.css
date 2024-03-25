@@ -146,5 +146,6 @@ img{
 .texto_obra{
     display: flex;
     justify-content: center;
+    text-align: center;
 
 }
