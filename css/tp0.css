@@ -138,5 +138,6 @@ img{
 .titulo_producto{
     display: flex;
     text-align: center;
+    justify-content: center;
     
 }
