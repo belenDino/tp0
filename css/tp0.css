@@ -112,9 +112,7 @@ h1{
     width: 25%;
     height: 670px;
     background-color: aquamarine;
-    align-content: center;
-
-    align-self: center;
+    justify-content: center;
 
 }
 img{
@@ -136,3 +134,4 @@ img{
 .color4{
     background-color:lightblue ;
 }
+.
