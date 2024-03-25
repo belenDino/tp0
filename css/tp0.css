@@ -137,14 +137,14 @@ img{
 }
 .titulo_producto{
     display: flex;
-    /* text-align: center;
-    justify-content: center; */
+    text-align: center;
+    justify-content: center;
     font-size: 10vh;
     font-weight: 700;
     
 }
 .texto_obra{
     display: flex;
-    /* justify-content: center; */
+    justify-content: center;
 
 }
