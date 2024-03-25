@@ -135,3 +135,7 @@ img{
 .color4{
     background-color:lightblue ;
 }
+h2{
+    justify-content: center;
+    align-content: center;
+}
