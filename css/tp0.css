@@ -50,13 +50,7 @@ header{
     background-size: cover;
     
 }
-.descripcion{
-    height:300px;
-    width:100%;
-    background-color:pink;
-    display: flex;
-  
-}
+
 .productos{
     height:800px;
     width:100%;
@@ -154,4 +148,24 @@ img{
     justify-content: center;
     text-align: center;
 
+}
+#descripcion{
+    height:300px;
+    width:100%;
+    background-color:pink;
+    display: flex;
+}
+    .imagen-fondo{
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+
+    
+    }
+
+.position-relative{
+    position: relative;
+}
+.pa{
+    position: absolute;
 }
