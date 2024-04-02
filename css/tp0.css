@@ -266,16 +266,15 @@ button:hover {
   font-style: normal;
 }
 ul {
-    height: 200%;
+    height: 50%;
     list-style: none;
-  
     display: flex;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
     justify-content: center;
   }
   
 li{
-    margin-top: 20%;
+    margin-top: 3%;
     text-align: center;
     padding: 16px;
   }
@@ -285,7 +284,25 @@ p{
   }
 
 .imgRedonda {
-    width:100px;
-    height: 100px;
+
     border-radius:150px;
+    display: flex;
+    align-items: center;
+}
+.nosotros-titulo{
+    margin-top: 3%;
+    font-family:verdana;
+    color: white;
+    /* text-align:left; */
+    font-size: 5vh;
+    text-shadow: 5px 0px 7px black;
+
+}
+footer{
+    text-align: center;
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  
 }
