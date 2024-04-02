@@ -281,11 +281,11 @@ li{
   }
 p{
     font-weight: 600;
-    color: rgb(101, 15, 15);
+    color: rgb(155, 153, 153);
   }
 
 .imgRedonda {
-    width:300px;
-    height:300px;
+    width:100px;
+    height: 100px;
     border-radius:150px;
 }
